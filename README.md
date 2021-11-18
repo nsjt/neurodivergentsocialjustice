@@ -1,10 +1,10 @@
-# gatsby-covid-19-template
+# neurodivergentsocialjustice.org
 
 Gatsby [Contentful](https://www.contentful.com) starter for creating a website for Covid-19 information 
 
 ![The index page of the Covid-19 starter blog](./screenshot.png "The index page of the Covid-19 starter blog")
 
-If you have information to share during the Covid-19 pandemic, we’re here to help. This solution enables organizations to quickly and easily publish a website. We hope to help communities stay better informed and connected in the midst of closures and quarantine.
+If you have information to share during the social justice failings for neurodivergent souls in modern societies, we’re here to help. This group is formed with the intent to empower individual and the society they live within to have tools to support neurodivergent people, while staying better informed and connected in the midst of ongoing waves of human rights abuses, poorly trained police, and justice system professionals, and school system misgivings.
 
 ## Contribution
 
